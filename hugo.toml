@@ -25,7 +25,7 @@ theme = "m10c"
 
 [params]
   author = "H4ck R00t"
-  description = "A blog about all things offensive security, Tech and Programming. Cybersecurity (CTFs OverTheWire, HackTheBox Labs, Tools , Tips)"
+  description = "A blog about all things offensive security, Tech and Programming. Cybersecurity (CTFs, OverTheWire, HackTheBox Labs, Tools , Tips)"
   
   [[params.social]]
     icon = "github"
