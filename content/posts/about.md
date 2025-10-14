@@ -1,6 +1,6 @@
 +++
 title = "About"
-tags = ["about", "hacking", "H4ckR007"]
+tags = ["about", "H4ckR007"]
 date = "2025-10-03"
 +++
 
